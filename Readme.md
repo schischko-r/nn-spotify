@@ -1,6 +1,6 @@
 # Neural Network for predicting songs' popularity
 
-> Goal: Creating a neural network for predicting and evaluating songs' popularity on sevice in according to its' features. The features are being collected using requests to Spotify's API. 
+> Goal: Creating a neural network for predicting and evaluating songs' popularity on service in according to its' features. The features are being collected using requests to Spotify's API. 
 
 ### Project description:
 
