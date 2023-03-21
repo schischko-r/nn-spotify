@@ -1,4 +1,4 @@
-# Analysis of sales data in an online store
+# Neural Network for predicting songs' popularity
 
 > Goal: Creating a neural network for predicting and evaluating songs' popularity on sevice in according to its' features. The features are being collected using requests to Spotify's API. 
 
